@@ -22,4 +22,4 @@ def blank():
 
 @app.route('/link')
 def link():
-    return "DU HURENSOHN"
+    return "PAUL IST EIN GOTT"
